@@ -14,7 +14,7 @@ Uygulama içinde iki farklı yapay zeka motoru arasında seçim yapabilirsiniz:
     *   **Avantajı:** 2K yüksek çözünürlük ve üst düzey doku onarımı sağlar.
     *   **Kısıtlama:** Sadece **Paid Project** (Faturalandırması açık) API anahtarlarıyla çalışır. Ücretsiz anahtarlarda 403 hatası verir.
 
-## 403 Hatası Alıyorsanız Ne Yapmalısınız?
+##  403 Hatası Alıyorsanız Ne Yapmalısınız?
 
 Eğer "Permission Denied" (Erişim Engellendi) veya 403 hatası alıyorsanız:
 1.  **Sağ panelden "Flash (Standard)" motorunu seçin.** Bu model ücretsiz anahtarların çoğunda çalışacaktır.
@@ -26,8 +26,8 @@ Eğer "Permission Denied" (Erişim Engellendi) veya 403 hatası alıyorsanız:
 - **ZIP İndirme:** Tüm temizlenmiş fotoğrafları tek seferde paket halinde indirin.
 
 
-## 📝 Kullanım İpuçları
+##  Kullanım İpuçları
 - **AI Prompt:** Sadece neyin silinmesini istediğinizi yazın. Örn: "Remove the text in the corner" veya "Delete the logo".
 - **Hassaslık:** Musluk, lavabo gibi gerçek objelerin silinmemesi için sistem içinde özel koruma komutları bulunmaktadır.
-- 
+
 *Geliştirici Notu: Bu uygulama Google Gemini 2.5 ve 3 serisi modellerin en güncel görüntü işleme yeteneklerini kullanmaktadır.*
